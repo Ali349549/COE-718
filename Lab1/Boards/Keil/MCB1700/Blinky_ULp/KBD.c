@@ -31,8 +31,6 @@ void KBD_Init(void)
                              (3 << 16) |
                              (3 << 18) |
                              (3 << 20));
-
-
     /*
      * Configure joystick pins as inputs.
      */

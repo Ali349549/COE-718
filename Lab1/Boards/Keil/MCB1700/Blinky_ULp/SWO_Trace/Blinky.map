@@ -444,10 +444,10 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       348        136         63          0          0       1059   blinky.o
+       348        136         63          0          0       1061   blinky.o
      16438          0       6272          4          1      78713   glcd_spi_lpc1700.o
          2          0          0          0          0        391   irq.o
-        74          0          0          0          0       3903   kbd.o
+        74          0          0          0          0       3901   kbd.o
        138          0         32          0          0       3717   led.o
         40         12        204          0        512       1148   startup_lpc17xx.o
        204          0          0          0          0       2214   system_lpc17xx.o
