@@ -1,0 +1,20 @@
+Dependencies for Project 'Blinky', Target 'SWO Trace': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\Blinky.c)(0x6AB18E7F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O1 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_SWO_Trace-IC:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-IC:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board-D__UVISION_VERSION="531" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\swo_trace\blinky.o --omf_browse .\swo_trace\blinky.crf --depend .\swo_trace\blinky.d)
+F (.\Blinky.h)(0x6AB18B7C)()
+F (.\Font_6x8_h.h)(0x6AB18B7C)()
+F (.\Font_16x24_h.h)(0x6AB18B7C)()
+F (.\GLCD.h)(0x6AB18B7C)()
+F (.\GLCD_SPI_LPC1700.c)(0x6AB18B7C)()
+F (.\IRQ.c)(0x6AB18B7C)()
+F (.\LED.c)(0x6AB18B7C)()
+F (.\LED.h)(0x6AB18B7C)()
+F (.\KBD.h)(0x6AB18B7C)()
+F (.\KBD.c)(0x6AB18B7C)()
+F (.\Abstract.txt)(0x6AB18B7C)()
+F (C:/Users/alii3/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.7.2/Boards/Keil/MCB1700/Common/ADC_MCB1700.c)(0x6AA80DCF)()
+F (C:/Users/alii3/AppData/Local/Arm/Packs/Keil/ARM_Compiler/1.7.2/Source/retarget_io.c)(0x6AA80F0B)()
+F (C:/Users/alii3/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.7.2/RTE_Driver/PIN_LPC17xx.c)(0x6AA80DD0)()
+F (RTE/Device/LPC1768/RTE_Device.h)(0x6AB18B7D)()
+F (RTE/Device/LPC1768/startup_LPC17xx.s)(0x6AB18B7D)()
+F (RTE/Device/LPC1768/system_LPC17xx.c)(0x6AB18B7D)()
